@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1718910492 source:c:\users\camilla\documents\github\hotel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
