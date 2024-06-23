@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1719107435 source:c:\users\camilla\documents\github\hotel\main.c
+	<stdio.h>
+	"cliente.h"
+	"funcionario.h"
+	"quarto.h"
+	"estadia.h"
+
+1719107324 c:\users\camilla\documents\github\hotel\cliente.h
+
+1719107172 c:\users\camilla\documents\github\hotel\funcionario.h
+
+1719104213 c:\users\camilla\documents\github\hotel\quarto.h
+
+1719107178 c:\users\camilla\documents\github\hotel\estadia.h
+
+1719106501 source:c:\users\camilla\documents\github\hotel\cliente.c
+	"cliente.h"
+	"utils.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1719105835 c:\users\camilla\documents\github\hotel\utils.h
+
+1719107508 source:c:\users\camilla\documents\github\hotel\estadia.c
+	"estadia.h"
+	"quarto.h"
+	"utils.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1719104256 source:c:\users\camilla\documents\github\hotel\quarto.c
+	"quarto.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1719105913 source:c:\users\camilla\documents\github\hotel\utils.c
+	"utils.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1719106776 source:c:\users\camilla\documents\github\hotel\funcionario.c
+	"funcionario.h"
+	"utils.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

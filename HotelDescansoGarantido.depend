@@ -1,7 +1,16 @@
 # depslib dependency file v1.0
-1718910492 source:c:\users\camilla\documents\github\hotel\main.c
+1719104646 source:c:\users\camilla\documents\github\hotel\main.c
 	<stdio.h>
-	<stdlib.h>
-	<string.h>
-	<time.h>
+	"cliente.h"
+	"funcionario.h"
+	"quarto.h"
+	"estadia.h"
+
+1719103846 c:\users\camilla\documents\github\hotel\cliente.h
+
+1719103892 c:\users\camilla\documents\github\hotel\funcionario.h
+
+1719104213 c:\users\camilla\documents\github\hotel\quarto.h
+
+1719104326 c:\users\camilla\documents\github\hotel\estadia.h
 
